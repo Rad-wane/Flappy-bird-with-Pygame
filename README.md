@@ -1,6 +1,6 @@
 ### Flappy Bird with Python
 
-Dev. by : Radwane Ait Ouhani
+Dev. by : Rad-wane
 
 This game was not OOP based (only functions), the code has comments for clarity. 
 It uses mainly `pygame`. Images used are in `images`, so are `sounds`. The font used is the one used in real *Flappy Bird* : `04B_19` with size 40.
